@@ -2,6 +2,8 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
+    public String year;
+
     public static void main(String[] args) {
         /*Write a Java program to get the character at the given index within the String
          */
@@ -124,4 +126,13 @@ public class Main {
             System.out.print("Doesn't match any programming language");
         }
 }
+
+    public void year() {
     }
+
+    public void schoolName() {
+    }
+
+    public void batchNum() {
+    }
+}

@@ -186,11 +186,28 @@ public class StringTask {
 
 
 
-
+//
 //        String wo1 = "Hello";
 //        String wo2 =  "World";
 //        StringBuilder wo = new StringBuilder(wo1.toUpperCase()+ " " + wo2.toUpperCase());
 //        System.out.println(wo);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //
 //        int nums[] = { 12, 15, 16, 17, 19 };
 //
@@ -207,9 +224,7 @@ public class StringTask {
 //                }
 //            }
 //            System.out.println("sum = " + sum);
-//
-//
-//        }
+//            }
 //        StringBuilder word = new StringBuilder("Hello Frinds");
 //        StringBuilder reverse = word.reverse();
 //        System.out.println(reverse);

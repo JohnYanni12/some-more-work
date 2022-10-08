@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class StringHW02 {
 
     public class Main {
@@ -17,4 +19,4 @@ public class StringHW02 {
             name1 = "";
             System.out.println(name111);
         }
-    }
+    }}
